@@ -37,3 +37,18 @@ You can invite the bot to your server using this [link](https://discord.com/oaut
 
 Please note that this project is closed source. To view the code, contact me directly by email.
 
+## Key Features
+
+### Stock Market
+
+The bot analyzes stock market trends of a simulated stock market and buys/sells shares for its users. It customizes its suggestions based on how the user plays, such as risk tollerance, so every user gets the best possible profit according to their preferences.
+
+We saw that the feature **Doubled user profit** on average, and **nobody took a loss**.
+
+### User Tracking
+
+The bot will also track users in the server and learn how they play the game, giving them useful statistics and reminders to maximize profit and efficiency. We also build graphs to rank them against all other **+100k users** in real time.
+
+### Reminders
+
+The bot also notifies users about tasks they can do in the game, so they can rise in leaderboards and compete with their friends more effectively.
