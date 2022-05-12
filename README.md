@@ -20,3 +20,20 @@ I could not have done this myself, I have two amazing teamates.
 | Graphic Artist    | placeholder                       |
 
 We all participate in project management and the 4 week sprints.
+
+## Development Details
+
+This project was made using the DiscordJS library, based on NodeJS to develop the bot. 
+
+The backend server was developed using NodeJS and Express, it connects to a MongoDB database.
+
+I use Docker to bundle the projects into containers. They are deployed in an AWS EC2 instance, we used Heroku and DigitalOcean as well.
+
+The project is supported by our generous patrons, the project would not be possible without them. Our Patreon page can be found [HERE](https://www.patreon.com/bigbrotherbot).
+
+You can invite the bot to your server using this [link](https://discord.com/oauth2/authorize?client_id=801210683483619438&permissions=347200&scope=bot).
+
+## Note
+
+Please note that this project is closed source. To view the code, contact me directly by email.
+
