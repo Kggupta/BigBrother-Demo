@@ -10,3 +10,13 @@ Its primary purpose is to analyze trends in user data such as stock purchases, a
 
 *The best software should do everything it's required to (and more) without being noticed!*
 
+## My Team
+
+I could not have done this myself, I have two amazing teamates. 
+
+| Role              | Teammate                          |
+|-------------------|-----------------------------------|
+| Quality Assurance | https://github.com/seanfromonline |
+| Graphic Artist    | placeholder                       |
+
+We all participate in project management and the 4 week sprints.
