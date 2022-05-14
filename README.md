@@ -2,11 +2,11 @@
 
 ## Overview
 
-Big Brother is a Discord bot that watches users play a simulated stock market game to track large amounts of data. It gives intuitive user analytics and maximizes user profit. The project has been in active development since 2020. The bot now supports over **100,000 users**.
+Big Brother is a Discord bot that watches a stock market game to track stock and user data. It gives intuitive user analytics and maximizes user profit. The project has been in active development since 2020. The bot now supports over **100,000 users**.
+
+It's primary purpose is to analyze trends in stock market data such as stock prices, sentiment analysis, volume, and more. It also analyzes trends in user data such as stock purchases/sells, online periods, and play habits to give users the highest possible profits. We put an emphasis on seamless automation so the inner workings are entirely hidden from the user and requires very little human intervention. Set it and forget it!
 
 The name is inspired by George Orwell's *1984*, where "Big Brother" is always watching.
-
-Its primary purpose is to analyze trends in user data such as stock purchases, activity, stock market prices, and more. We put an emphasis on seamless automation so the inner workings are entirely hidden from the user and requires as little human intervention as possible. Set it and forget it!
 
 *The best software should do everything it's required to (and more) without being noticed!*
 
