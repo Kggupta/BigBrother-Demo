@@ -2,11 +2,11 @@
 
 ## Overview
 
-Big Brother is a Discord bot that watches users play a simulated stock market game to track large amounts of data. It gives intuitive user analytics and maximizes user profit. The project has been in active development since 2020. The bot now supports over **100,000 users**.
+Big Brother is a Discord bot that watches a stock market game to track stock and user data. It gives intuitive user analytics and maximizes user profit. The project has been in active development since 2020. The bot now supports over **100,000 users**.
+
+It's primary purpose is to analyze trends in stock market data such as stock prices, sentiment analysis, volume, and more. It also analyzes trends in user data such as stock purchases/sells, online periods, and play habits to give users the highest possible profits. We put an emphasis on seamless automation so the inner workings are entirely hidden from the user and requires very little human intervention. Set it and forget it!
 
 The name is inspired by George Orwell's *1984*, where "Big Brother" is always watching.
-
-Its primary purpose is to analyze trends in user data such as stock purchases, activity, stock market prices, and more. We put an emphasis on seamless automation so the inner workings are entirely hidden from the user and requires as little human intervention as possible. Set it and forget it!
 
 *The best software should do everything it's required to (and more) without being noticed!*
 
@@ -29,6 +29,8 @@ The backend server was developed using NodeJS and Express, it connects to a Mong
 
 I use Docker to bundle the projects into containers. They are deployed in an AWS EC2 instance, we used Heroku and DigitalOcean as well.
 
+You can access the code for the **DEMO REST API** in this [repository](https://github.com/Kggupta/BigBrother-Server). The repo shows a couple of the basic endpoints our API provides to the client.
+
 The project is supported by our generous patrons, the project would not be possible without them. Our Patreon page can be found [HERE](https://www.patreon.com/bigbrotherbot).
 
 You can invite the bot to your server using this [link](https://discord.com/oauth2/authorize?client_id=801210683483619438&permissions=347200&scope=bot).
@@ -37,7 +39,7 @@ Use this [link](https://top.gg/bot/801210683483619438) to view some of the revie
 
 ## Note
 
-Please note that this project is closed source. To view the code, contact me directly by email.
+Please note that this project is closed source. To view the full code, contact me directly by email.
 
 ## Key Features
 
