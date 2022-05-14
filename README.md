@@ -17,7 +17,7 @@ I could not have done this myself, I have two amazing teamates.
 | Role              | Teammate                          |
 |-------------------|-----------------------------------|
 | Quality Assurance | https://github.com/seanfromonline |
-| Graphic Artist    | placeholder                       |
+| Graphic Artist    | https://github.com/cpizzapasta    |
 
 We all participate in project management and the 4 week sprints.
 
