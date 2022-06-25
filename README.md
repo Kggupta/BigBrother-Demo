@@ -1,4 +1,8 @@
-# Big Brother
+# Big Brother - DEMO
+
+## The Problem
+
+There is a popular Discord Bot which simulates the real-life stock market with game currency. We found that the players didn't understand how it worked and were getting frustrated by losing all their money. This wasn't enjoyable for the users so our team released an assistant bot, _Big Brother_, which will do the complex analysis of the (simulated) stock market so you don't have to!
 
 ## Overview
 
@@ -6,16 +10,16 @@ Big Brother is a Discord bot that watches a stock market game to track stock and
 
 It's primary purpose is to analyze trends in stock market data such as stock prices, sentiment analysis, volume, and more. It also analyzes trends in user data such as stock purchases/sells, online periods, and play habits to give users the highest possible profits. We put an emphasis on seamless automation so the inner workings are entirely hidden from the user and requires very little human intervention. Set it and forget it!
 
-The name is inspired by George Orwell's *1984*, where "Big Brother" is always watching.
+The name is inspired by George Orwell's _1984_, where "Big Brother" is always watching.
 
-*The best software should do everything it's required to (and more) without being noticed!*
+_The best software should do everything it's required to (and more) without being noticed!_
 
 ## My Team
 
-I could not have done this myself, I have two amazing teamates. 
+I could not have done this myself, I have two amazing teamates.
 
 | Role              | Teammate                          |
-|-------------------|-----------------------------------|
+| ----------------- | --------------------------------- |
 | Quality Assurance | https://github.com/seanfromonline |
 | Graphic Artist    | https://github.com/cpizzapasta    |
 
@@ -23,7 +27,7 @@ We all participate in project management and the 4 week sprints.
 
 ## Development Details
 
-This project was made using the DiscordJS library, based on NodeJS to develop the bot. 
+This project was made using the DiscordJS library, based on NodeJS to develop the bot.
 
 The backend server was developed using NodeJS and Express, it connects to a MongoDB database.
 
