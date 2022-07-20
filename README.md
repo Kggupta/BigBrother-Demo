@@ -39,8 +39,6 @@ The project is supported by our generous patrons, the project would not be possi
 
 You can invite the bot to your server using this [link](https://discord.com/oauth2/authorize?client_id=801210683483619438&permissions=347200&scope=bot).
 
-Use this [link](https://top.gg/bot/801210683483619438) to view some of the reviews by our users.
-
 ## Note
 
 Please note that this project is closed source. To view the full code, contact me directly by email.
