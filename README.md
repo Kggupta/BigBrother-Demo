@@ -16,12 +16,12 @@ _The best software should do everything it's required to (and more) without bein
 
 ## My Team
 
-I could not have done this myself, I have two amazing teamates.
+I could not have done this myself, I have amazing teamates.
 
-| Role              | Teammate                          |
-| ----------------- | --------------------------------- |
-| Quality Assurance | https://github.com/seanfromonline |
-| Graphic Artist    | https://github.com/cpizzapasta    |
+| Role                         | Teammate                          |
+| ---------------------------- | --------------------------------- |
+| Quality Assurance            | https://github.com/seanfromonline |
+| Suggestions and Support Team | Several people.                   |
 
 We all participate in project management and the 4 week sprints.
 
