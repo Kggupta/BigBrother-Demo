@@ -1,4 +1,8 @@
-# Big Brother
+# Big Brother - DEMO
+
+## The Problem
+
+There is a popular Discord Bot which simulates the real-life stock market with game currency. We found that the players didn't understand how it worked and were getting frustrated by losing all their money. This wasn't enjoyable for the users so our team released an assistant bot, _Big Brother_, which will do the complex analysis of the (simulated) stock market so you don't have to!
 
 ## Overview
 
@@ -34,8 +38,6 @@ You can access the code for the **DEMO REST API** in this [repository](https://g
 The project is supported by our generous patrons, the project would not be possible without them. Our Patreon page can be found [HERE](https://www.patreon.com/bigbrotherbot).
 
 You can invite the bot to your server using this [link](https://discord.com/oauth2/authorize?client_id=801210683483619438&permissions=347200&scope=bot).
-
-Use this [link](https://top.gg/bot/801210683483619438) to view some of the reviews by our users.
 
 ## Note
 
