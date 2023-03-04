@@ -6,7 +6,7 @@ There is a popular Discord Bot which simulates the real-life stock market with g
 
 ## Overview
 
-Big Brother is a Discord bot that watches a stock market game to track stock and user data. It gives intuitive user analytics and maximizes user profit. The project has been in active development since 2020. The bot now supports over **100,000 users**.
+Big Brother is a Discord bot that watches a stock market game to track stock and user data. It gives intuitive user analytics and maximizes user profit. The project has been in active development since 2020. The bot now supports over **50,000 users**.
 
 It's primary purpose is to analyze trends in stock market data such as stock prices, sentiment analysis, volume, and more. It also analyzes trends in user data such as stock purchases/sells, online periods, and play habits to give users the highest possible profits. We put an emphasis on seamless automation so the inner workings are entirely hidden from the user and requires very little human intervention. Set it and forget it!
 
