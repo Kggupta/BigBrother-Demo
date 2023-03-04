@@ -53,7 +53,7 @@ We saw that the feature **Doubled user profit** on average, and **nobody took a 
 
 ### User Tracking
 
-The bot will also track users in the server and learn how they play the game, giving them useful statistics and reminders to maximize profit and efficiency. We also build graphs to rank them against all other **+100k users** in real time.
+The bot will also track users in the server and learn how they play the game, giving them useful statistics and reminders to maximize profit and efficiency. We also build graphs to rank them against all other **+50k users** in real time.
 
 ### Reminders
 
