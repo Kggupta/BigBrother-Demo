@@ -34,6 +34,7 @@ The backend server was developed using NodeJS and Express, it connects to a Mong
 I use Docker to bundle the projects into containers. They are deployed in an AWS EC2 instance, we used Heroku and DigitalOcean as well.
 
 You can access the code for the **DEMO REST API** in this [repository](https://github.com/Kggupta/BigBrother-Server). The repo shows a couple of the basic endpoints our API provides to the client.
+- **DEMO REST API v2** is available [here](https://github.com/Kggupta/BigBrother-Server-v2)!
 
 The project is supported by our generous patrons, the project would not be possible without them. Our Patreon page can be found [HERE](https://www.patreon.com/bigbrotherbot).
 
